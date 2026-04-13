@@ -598,3 +598,10 @@ a {
   max-width: 400px;
   margin: 0 auto;
 }
+
+.hero-catch {
+  margin: 0 0 20px;
+  font-size: clamp(2rem, 5vw, 4rem);
+  line-height: 1.2;
+  font-weight: 800;
+}
